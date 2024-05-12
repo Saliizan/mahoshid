@@ -59,6 +59,13 @@ body {
 	
 }
 
+/*---logo---*/
+.logo {
+	width: 19rem;
+}
+
+
+
 .ul-li ul {
 	margin:0;
 	padding: 0;
